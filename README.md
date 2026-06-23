@@ -3,14 +3,14 @@
 Full-stack developer (Python, TypeScript, React, Node.js). Most of my day-to-day is
 building and maintaining web apps for clients. At work I've started integrating LLM APIs
 into some of those products (chatbots and automations), and on my own time I'm learning
-to build with LLMs more seriously: retrieval (RAG), agents, and the tooling around them.
+to build with LLMs more seriously: retrieval (RAG) and agents.
 
 Junior dev at Conecta Performa and a Software Engineering student at UFMS. Based in Campo
 Grande, Brazil (UTC-3). I work in English and I'm open to remote roles in the US or EU.
 
 ## Tech
 
-**Working with:** Python, TypeScript, JavaScript, React, Node.js, Firebase, Google Cloud, PostgreSQL, REST APIs
+**Working with:** Python, TypeScript, React, Node.js, PostgreSQL, Firebase, Google Cloud
 
 **Learning:** FastAPI, Docker, and the LLM stack (RAG, LangChain, pgvector)
 
